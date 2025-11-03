@@ -1,5 +1,5 @@
 # blog
-Blog Website using Hugo, Staticman and Threejs
+Blog Website using Astro and Threejs
 Currently under construction
 
 ### Host Info
